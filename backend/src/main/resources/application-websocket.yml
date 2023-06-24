@@ -1,0 +1,5 @@
+
+
+websocket:
+  mapping:
+    url: "/api/v1/channel/room"
